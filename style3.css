@@ -1,0 +1,144 @@
+*{
+    margin:0;
+}
+#heaing{
+    overflow: hidden;
+    list-style-type: none;
+    list-style-position: inside;
+}
+li{
+    display:inline-block;
+    float:left;
+    background-color: transparent;
+    padding:14 px 15px;
+}
+li a{
+    text-align: center;
+    color:#fff;
+    padding:20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+li a:hover{
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.508);
+}
+#under{
+    position:relative;
+    bottom:300px;
+}
+.img{
+    background-color: rgba(0, 0, 0, 0.508);rgba(0, 0, 0, 0.508);
+}
+#para{
+    position:relative;
+    top:100px;
+}
+p{
+    font-size: 20;
+}
+#div4{
+    width:200px;
+    height:200px;
+    
+    position:relative;
+    display:inline-block;
+    top:100px;
+    background-color: rgb(100, 100, 214);;
+}
+#div1{
+    width:200px;
+    height:200px;
+    border:none;
+    position: relative;
+    display:inline-block;
+     top:100px;
+     left:815px;
+    background-color:rgb(133, 230, 223);
+}
+#div2{
+    width:200px;
+    height:200px;
+    border:none;
+    position:relative;
+    display:inline-block;
+    top:135px;
+    background-color: rgb(100, 100, 214);
+}
+#div3{
+    width:200px;
+    height:200px;
+    border:none;
+    position:relative;
+    display:inline-block;
+    top:100px;
+    background-color:rgb(133, 230, 223);
+}
+.h3{
+    font-size: 20px;
+    text-align: center;
+    color:#fff;
+    padding:20px 15px;
+}
+.h4{
+    text-align: left;
+    color:#fff
+}
+.hr{
+    position: relative;
+    top:100px;
+}
+
+
+#div5{
+    width:200px;
+    height:500px;
+    border:none;
+    position:relative;
+    display:inline-block;
+    background-color:transparent;
+}
+#div6{
+    width:200px;
+    height:500px;
+    border:none;
+    position: relative;
+    display:inline-block;
+    bottom:35px; 
+    background-color:transparent;
+}
+#div7{
+    width:200px;
+    height:500px;
+    border:none;
+    position:relative;
+    display:inline-block;
+    left:100px;
+    bottom:17px;
+    background-color:transparent;
+}
+#div8{
+    width:200px;
+    height:500px;
+    border:none;
+    position:relative;
+    display:inline-block;
+    background-color:transparent;
+    left:200px;
+}
+.para{
+    text-align: center;
+}
+.foot{
+    width:100%;
+    height:500px;
+    background-color: rgba(0, 0, 0, 0.899);
+    position: relative;
+    top:100px;
+}
+#naren{
+    position: relative;
+    top:100px;
+    text-align: right;
+    font-size: 20px;
+}
